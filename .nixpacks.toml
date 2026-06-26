@@ -1,3 +1,6 @@
+[providers]
+node = { name = "node" }
+
 [phases.setup]
 nixPkgs = ["nodejs_22"]
 
